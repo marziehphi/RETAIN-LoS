@@ -1,0 +1,4 @@
+{
+    "eICU_path": "/workspace/los-prediction/eICU_preprocessing/eICU_data/",
+    "MIMIC_path": "/workspace/los-prediction/MIMIC_preprocessing/MIMIC_data/"
+}
